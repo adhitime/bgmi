@@ -1,0 +1,12 @@
+UserID: 6148624824 | Time: 2024-07-19 15:53:01.796412 | Command: /bgmi | Target: 104.211.240.59 | Port: 18356 | Time: 250
+Username: UserID: 6148624824
+Target: 104.211.240.59
+Port: 18356
+Time: 250
+
+UserID: 6148624824 | Time: 2024-07-20 21:08:49.782231 | Command: /bgmi | Target: 20.198.111.211 | Port: 28290 | Time: 250
+Username: UserID: 6148624824
+Target: 20.198.111.211
+Port: 28290
+Time: 250
+
